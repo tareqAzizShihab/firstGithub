@@ -1,2 +1,3 @@
 Hello git user.
 This is VS code frome Microsoft, and I will help you to edit and manage yor file.
+I've added this file to GitHub.
